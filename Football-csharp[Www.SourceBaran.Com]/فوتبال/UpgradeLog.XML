@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="فوتبال">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\فوتبال.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\فوتبال.suo">
+</Property><Property Name="Date" Value="2007/12/15">
+</Property><Property Name="Time" Value="23:48 ب.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="فوتبال.sln" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\فوتبال.sln">
+</Event><Event ErrorLevel="0" Project="" Source="فوتبال.suo" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\فوتبال.suo">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="فوتبال.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\فوتبال.csproj">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Person.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Person.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Player.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Player.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Program.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="TOOP.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\TOOP.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="تیم.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\تیم.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="زمین بازی.cs" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\زمین بازی.cs">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Hadi\Desktop\football Project1\فوتبال\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="فوتبال.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="فوتبال" Source="فوتبال.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="فوتبال.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="فوتبال.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="فوتبال" Source="فوتبال.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

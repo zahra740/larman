@@ -1,0 +1,136 @@
+object Form8: TForm8
+  Left = 377
+  Top = 111
+  BiDiMode = bdRightToLeft
+  BorderStyle = bsDialog
+  Caption = ' '#1583#1585#1576#1575#1585#1607' '#1606#1608#1610#1587#1606#1583#1607' '
+  ClientHeight = 221
+  ClientWidth = 319
+  Color = clBtnFace
+  Font.Charset = ARABIC_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -15
+  Font.Name = 'Arial'
+  Font.Style = [fsBold]
+  OldCreateOrder = False
+  ParentBiDiMode = False
+  PixelsPerInch = 96
+  TextHeight = 18
+  object Label1: TLabel
+    Left = 127
+    Top = 8
+    Width = 56
+    Height = 18
+    Caption = ' '#1576#1607' '#1606#1575#1605' '#1582#1583#1575' '
+  end
+  object Label2: TLabel
+    Left = 140
+    Top = 152
+    Width = 75
+    Height = 18
+    Caption = ' '#1608#1585#1608#1583#1610' '#1587#1575#1604' : '
+  end
+  object Label3: TLabel
+    Left = 158
+    Top = 120
+    Width = 97
+    Height = 18
+    Caption = ' '#1606#1575#1605' '#1606#1608#1610#1587#1606#1583#1607' '#1576#1585#1606#1575#1605#1607' '
+  end
+  object Label4: TLabel
+    Left = 252
+    Top = 56
+    Width = 51
+    Height = 18
+    Caption = ' '#1606#1575#1605' '#1575#1587#1578#1575#1583' '
+  end
+  object Label5: TLabel
+    Left = 208
+    Top = 88
+    Width = 71
+    Height = 18
+    Caption = ' '#1593#1606#1608#1575#1606' '#1662#1585#1608#1688#1607' '
+  end
+  object Label6: TLabel
+    Left = 120
+    Top = 184
+    Width = 31
+    Height = 18
+    Caption = ' '#1578#1585#1605' : '
+  end
+  object Label7: TLabel
+    Left = 176
+    Top = 56
+    Width = 47
+    Height = 18
+    Caption = 'Label7'
+    Color = 15264218
+    Font.Charset = ARABIC_CHARSET
+    Font.Color = 14559660
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label8: TLabel
+    Left = 136
+    Top = 88
+    Width = 47
+    Height = 18
+    Caption = ' '#1705#1578#1575#1576#1582#1575#1606#1607' '
+    Color = 15264218
+    Font.Charset = ARABIC_CHARSET
+    Font.Color = 14559660
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label9: TLabel
+    Left = 68
+    Top = 120
+    Width = 67
+    Height = 18
+    Caption = ' '#1575#1589#1594#1585' '#1705#1608#1607#1610' '
+    Color = 15264218
+    Font.Charset = ARABIC_CHARSET
+    Font.Color = 14559660
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label10: TLabel
+    Left = 72
+    Top = 152
+    Width = 55
+    Height = 18
+    Caption = 'Label10'
+    Color = 15264218
+    Font.Charset = ARABIC_CHARSET
+    Font.Color = 14559660
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label11: TLabel
+    Left = 48
+    Top = 184
+    Width = 55
+    Height = 18
+    Caption = 'Label11'
+    Color = 15264218
+    Font.Charset = ARABIC_CHARSET
+    Font.Color = 14559660
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+end

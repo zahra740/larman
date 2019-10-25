@@ -1,0 +1,40 @@
+D:\Projects\StudentProject\C#.Net\AddressBook_D\bin\Debug\AddressBook.exe.config
+D:\Projects\StudentProject\C#.Net\AddressBook_D\obj\Debug\AddressBook.exe
+D:\Projects\StudentProject\C#.Net\AddressBook_D\obj\Debug\AddressBook.pdb
+D:\Projects\StudentProject\C#.Net\AddressBook_D\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\StudentProject\C#.Net\AddressBook_D\obj\Debug\AddressBook.frmAbout.resources
+D:\Projects\StudentProject\C#.Net\AddressBook_D\obj\Debug\AddressBook.frmAddress.resources
+D:\Projects\StudentProject\C#.Net\AddressBook_D\obj\Debug\AddressBook.Properties.Resources.resources
+D:\Projects\StudentProject\C#.Net\AddressBook_D\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+D:\Projects\StudentProject\C#.Net\AddressBook_D\bin\Debug\AddressBook.exe
+D:\Projects\StudentProject\C#.Net\AddressBook_D\bin\Debug\AddressBook.pdb
+D:\Projects\StudentProject\C#.Net\AddressBookCSharp\bin\Debug\AddressBook.exe.config
+D:\Projects\StudentProject\C#.Net\AddressBookCSharp\obj\Debug\AddressBook.exe
+D:\Projects\StudentProject\C#.Net\AddressBookCSharp\obj\Debug\AddressBook.pdb
+D:\Projects\StudentProject\C#.Net\AddressBookCSharp\bin\Debug\AddressBook.exe
+D:\Projects\StudentProject\C#.Net\AddressBookCSharp\bin\Debug\AddressBook.pdb
+D:\Projects\StudentProject\C#.Net\AddressBookCSharp\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\StudentProject\C#.Net\AddressBookCSharp\obj\Debug\AddressBook.frmAbout.resources
+D:\Projects\StudentProject\C#.Net\AddressBookCSharp\obj\Debug\AddressBook.frmAddress.resources
+D:\Projects\StudentProject\C#.Net\AddressBookCSharp\obj\Debug\AddressBook.Properties.Resources.resources
+D:\Projects\StudentProject\C#.Net\AddressBookCSharp\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.source69.blogfa.com]\AddressBook-c sharp[www.source69.blogfa.com]\AddressBookCSharp\bin\Debug\AddressBook.exe.config
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.source69.blogfa.com]\AddressBook-c sharp[www.source69.blogfa.com]\AddressBookCSharp\obj\Debug\AddressBook.exe
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.source69.blogfa.com]\AddressBook-c sharp[www.source69.blogfa.com]\AddressBookCSharp\obj\Debug\AddressBook.pdb
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.source69.blogfa.com]\AddressBook-c sharp[www.source69.blogfa.com]\AddressBookCSharp\bin\Debug\AddressBook.exe
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.source69.blogfa.com]\AddressBook-c sharp[www.source69.blogfa.com]\AddressBookCSharp\bin\Debug\AddressBook.pdb
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.source69.blogfa.com]\AddressBook-c sharp[www.source69.blogfa.com]\AddressBookCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.source69.blogfa.com]\AddressBook-c sharp[www.source69.blogfa.com]\AddressBookCSharp\obj\Debug\AddressBook.frmAbout.resources
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.source69.blogfa.com]\AddressBook-c sharp[www.source69.blogfa.com]\AddressBookCSharp\obj\Debug\AddressBook.frmAddress.resources
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.source69.blogfa.com]\AddressBook-c sharp[www.source69.blogfa.com]\AddressBookCSharp\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.source69.blogfa.com]\AddressBook-c sharp[www.source69.blogfa.com]\AddressBookCSharp\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.SourcePress.com]\AddressBookCSharp\bin\Debug\AddressBook.exe.config
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.SourcePress.com]\AddressBookCSharp\obj\Debug\AddressBook.exe
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.SourcePress.com]\AddressBookCSharp\obj\Debug\AddressBook.pdb
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.SourcePress.com]\AddressBookCSharp\bin\Debug\AddressBook.exe
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.SourcePress.com]\AddressBookCSharp\bin\Debug\AddressBook.pdb
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.SourcePress.com]\AddressBookCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.SourcePress.com]\AddressBookCSharp\obj\Debug\AddressBook.frmAbout.resources
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.SourcePress.com]\AddressBookCSharp\obj\Debug\AddressBook.frmAddress.resources
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.SourcePress.com]\AddressBookCSharp\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Documents and Settings\Alireza\Desktop\AddressBook-c sharp[www.SourcePress.com]\AddressBookCSharp\obj\Debug\AddressBook.csproj.GenerateResource.Cache

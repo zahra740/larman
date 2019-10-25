@@ -1,0 +1,10 @@
+bin\Debug\فوتبال.exe
+bin\Debug\فوتبال.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\فوتبال.Form1.resources
+obj\Debug\فوتبال.Properties.Resources.resources
+obj\Debug\فوتبال.درباره_پروژه.AboutBox.resources
+obj\Debug\فوتبال.فرمی_برای_کمک.Help1.resources
+obj\Debug\فوتبال.csproj.GenerateResource.Cache
+obj\Debug\فوتبال.exe
+obj\Debug\فوتبال.pdb
